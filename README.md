@@ -6,7 +6,7 @@
   <style>
     body {
       background-color: black;
-      color: white;
+      color: red;
       text-align: center;
       font-family: Arial, sans-serif;
       margin: 0;
@@ -46,7 +46,6 @@
   <!-- Audio -->
   <audio controls autoplay loop>
     <source src="https://raw.githubusercontent.com/dianabaton9-bot/ez.kape/main/TJ Monterde - Hanggang Dito Na Lang (Official Lyric Video) [_fSSKjlTIks].mp3 type="audio/mpeg">
-    Your browser does not support the audio element.
   </audio>
 
 </body>
