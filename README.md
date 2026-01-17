@@ -45,7 +45,7 @@
 
   <!-- Audio -->
   <audio controls autoplay loop>
-    <source src="https://raw.githubusercontent.com/dianabaton9-bot/ez.kape/main/C:\Users\user\Music\MP3Downloader\TJ Monterde - Hanggang Dito Na Lang (Official Lyric Video) [_fSSKjlTIks].mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dianabaton9-bot/ez.kape/main/TJ Monterde - Hanggang Dito Na Lang (Official Lyric Video) [_fSSKjlTIks].mp3 type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 
