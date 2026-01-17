@@ -35,7 +35,7 @@
   <img src= "lover.jpg" alt="My picture" >
 
   <audio controls autoplay loop>
-       <source src="C:\Users\user\Music\MP3Downloader\TJ Monterde - Hanggang Dito Na Lang (Official Lyric Video) [_fSSKjlTIks].mp3" type="audio/mpeg">
+       <source src="C:\Users\user\Music\MP3Downloader\TJ Monterde - Hanggang Dito Na Lang (Official Lyric Video) [_fSSKjlTIks].mp3" type="sound.mp3">
        Your browser does not support the audio element.
   </audio>
 
